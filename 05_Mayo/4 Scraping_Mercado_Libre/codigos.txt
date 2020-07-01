@@ -1,0 +1,15 @@
+# Comandos scraping
+# iniciar Git Bash
+
+# listar documentos
+ls
+
+# Directorio
+cd Scraping_Mercado_Libre
+
+# Prueba descarga
+
+curl GET -o test.txt https://api.mercadolibre.com/trends/MLC
+
+
+
